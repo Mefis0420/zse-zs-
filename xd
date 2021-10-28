@@ -1,0 +1,13 @@
+<script>
+// at jw  
+// where t    
+var wrong="http://www.google.pl";    
+// password...    
+var password="Sadoch";    
+// prompts the user this...    
+var name = prompt("Wpisz Hasło!:","...");    
+// if... else statement... right, confirm this, wrong, go to wrong...    
+if (name == password) {(confirm("Sadoch grupa 2, żadnych zadań nie wynosić!"))}    
+else {location.href=wrong}      
+   
+</script><!--content stop-->
